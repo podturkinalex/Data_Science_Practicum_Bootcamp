@@ -1,5 +1,5 @@
 # Цена б/у автомобиля
-![NLP](NLP.png?raw=true "Title")
+![](car.png?raw=true "Title")
 
 **Цель**
 
