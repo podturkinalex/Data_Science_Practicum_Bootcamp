@@ -42,7 +42,6 @@
 # Используемые библиотеки
 * pandas
 * numpy
-* matplotlib и seaborn
-* statsmodels
+* matplotlib
+* seaborn
 * sklearn
-* catboost
