@@ -29,3 +29,13 @@
 * PySpark
 
 
+## Навыки
+* Data Preprocessing
+* Data Visualization
+* Numeric method
+* Machine learning in business
+* Supervised ML
+* Unsupervised ML
+* Computer Vision
+
+
