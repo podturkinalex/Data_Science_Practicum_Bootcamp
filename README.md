@@ -2,7 +2,7 @@
 * Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на Яндекс Практикуме https://practicum.yandex.ru/.
 
 
-**Содержание**
+## Содержание
 * Car Price with Boostings and Data Cleaning Analysis Visualization
 * Classification Toxic Comments with NLP
 * Customer Age with Computer Vision
@@ -11,11 +11,11 @@
 * Taxi Orders with Time series analysis
 * Well Drilling Profit Prediction with Bootstrapping
 
-**Основные языки**
+## Основные языки
 * Python
 * SQL
 
-**Основные библиотеки**
+## Основные библиотеки
 * pandas
 * numpy
 * matplotlib
