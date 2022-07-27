@@ -1,8 +1,8 @@
-# Data_Science_Practicum_Bootcamp
-<p align="center">
+<p align="left">
   <img width="170" height="170" src=logo.png>
 </p>
 
+# Data_Science_Practicum_Bootcamp
 * Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на Яндекс Практикуме https://practicum.yandex.ru/.
 
 
