@@ -7,6 +7,7 @@
 
 
 ## Содержание
+* Bank Turnover
 * Car Price with Boostings and Data Cleaning Analysis Visualization
 * Classification Toxic Comments with NLP
 * Customer Age with Computer Vision
