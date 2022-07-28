@@ -23,8 +23,10 @@
 ## Основные библиотеки
 * pandas
 * numpy
+* scipy
 * matplotlib
 * seaborn
+* imblearn
 * sklearn
 * CatBoost
 * LightGBM
@@ -32,6 +34,7 @@
 * NTLK
 * Keras
 * PySpark
+
 
 
 ## Навыки
