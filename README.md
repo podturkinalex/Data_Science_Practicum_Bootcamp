@@ -1,6 +1,10 @@
-![](logo.png?raw=true "Title")
-
 # Data_Science_Practicum_Bootcamp
+<p align="center">
+  <img width="678" height="331" src=logo.png>
+</p>
+
+
+
 * Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на Яндекс Практикуме https://practicum.yandex.ru/.
 
 
