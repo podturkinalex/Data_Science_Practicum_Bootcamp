@@ -7,14 +7,16 @@
 
 
 ## Содержание
-* Bank Turnover
-* Car Price with Boostings and Data Cleaning Analysis Visualization
-* Classification Toxic Comments with NLP
-* Customer Age with Computer Vision
-* Encrypted Clients Data with Linear algebra
-* Gold Recovery Prediction with ML and Data Preparation
-* Taxi Orders with Time series analysis
-* Well Drilling Profit Prediction with Bootstrapping
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
 
 ## Основные языки
 * Python
