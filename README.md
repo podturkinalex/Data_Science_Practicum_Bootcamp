@@ -9,7 +9,7 @@
 
 
 ## Содержание
-* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover)
+* [Bank Turnover](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Bank%20Turnover%20Prediction)
 * [Car Price with Boostings and Data Cleaning Analysis Visualization](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Car%20Price%20%20with%20Boostings%20and%20%20Data%20Cleaning%20Analysis%20Visualization)
 * [Classification Toxic Comments with NLP](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Classification%20Toxic%20Comments%20with%20NLP)
 * [Customer Age with Computer Vision](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Customer%20Age%20with%20Computer%20Vision)
