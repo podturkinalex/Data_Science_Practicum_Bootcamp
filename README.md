@@ -16,7 +16,7 @@
 * [Do Customers Choose Proper Tariff](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Do%20Customers%20Choose%20Proper%20Tariff%20with%20Classification)
 * [Encrypted Clients Data with Linear algebra](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Encrypted%20Clients%20Data%20with%20Linear%20algebra)
 * [Gold Recovery Prediction with ML and Data Preparation](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Gold%20Recovery%20Prediction%20with%20ML%20and%20Data%20Preparation)
-* [Taxi Orders with Time series analysis](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Taxi%20Orders%20with%20Time%20series%20analysis)
+* [Taxi Orders with Time series analysis](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Taxi%20Orders%20Prediction%20with%20Time%20series%20analysis)
 * [Well Drilling Profit Prediction with Bootstrapping](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Well%20Drilling%20Profit%20Prediction%20with%20Bootstrapping)
 
 
