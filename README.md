@@ -5,8 +5,8 @@
 
 
 
-* Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на Яндекс Практикуме https://practicum.yandex.ru/.
-
+* Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на курсе Data Science на Яндекс Практикуме https://practicum.yandex.ru/.
+* Здесь вы можете встретить проекты по предобработке и анализу данных и решений самых разных задач машинного обучения.
 
 ## Содержание
 * [Apartment Price with Data cleaning and EDA](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Apartment%20Price%20with%20Data%20cleaning%20and%20EDA)
