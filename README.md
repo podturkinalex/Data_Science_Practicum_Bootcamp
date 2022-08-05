@@ -41,6 +41,8 @@
 * LightGBM
 * Pymystem
 * NTLK
+* torch
+* transformers
 * Keras
 * PySpark
 
