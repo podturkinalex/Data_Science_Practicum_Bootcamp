@@ -1,7 +1,7 @@
 # Отток клиентов
 **Подходы и инструменты**
 * Предобработка: `isna`, `dropna`, `astype`, `duplicated`, `str.lower()`, `rename`, `drop`, `pd.get_dummies`.
-* EDA: `groupby`, `matplotlib`: **pie chart** ++ shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. Статистический анализ: **корреляции** `chi2_contingency` + `pandas.crosstab`; pointbiserialr
+* EDA: `groupby`, `matplotlib`: **pie chart** + shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. Статистический анализ: **корреляции** бинарного отклика и качественных переменных: `chi2_contingency` + `pandas.crosstab`, корреляции бинарного отлкика и количественных переменных : `pointbiserialr`, `corr`.
 **Цель**
 * Спрогнозировать отток клиентов банка.
 
