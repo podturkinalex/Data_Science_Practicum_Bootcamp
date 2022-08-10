@@ -8,7 +8,7 @@
 
 
 **Мои усилия**
-* В этом проекте передо мной стояла задача вдумчивой очистки данных от артефактов (`isna`, `duplicated`, `fillna`, `astype`, `round`, `str.replace`). При этом задачей проекта стоял поиск аномалий, который я проводил уже на стадии `EDA`. Здесь вы можете увидеть разнообразные графические (`matplotlib`: `bar`, `plot` в цикле, `seaborn`: `histplot`, `scatterplot`, групповой `boxplot`, `lineplot`, `subplots`, `heatmap`) и логические решения (query, pivot_table, groupby, transform) для ответа на поставленные вопросы.
+* В этом проекте передо мной стояла задача вдумчивой очистки данных от артефактов (`isna`, `duplicated`, `fillna`, `astype`, `round`, `str.replace`). При этом задачей проекта стоял поиск аномалий, который я проводил уже на стадии `EDA`. Здесь вы можете увидеть разнообразные графические (`matplotlib`: `bar`, `plot` в цикле, `seaborn`: `histplot`, `scatterplot`, групповой `boxplot`, `lineplot`, `subplots`, `heatmap`) и логические решения (`loc`, `query`, `pivot_table`, `groupby`, `transform`) для ответа на поставленные вопросы.
 
 
 **Описание данных**
