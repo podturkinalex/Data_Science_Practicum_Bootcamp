@@ -1,6 +1,7 @@
 # Отток клиентов
-![](churn.jpg?raw=true "Title")
-
+**Подходы и инструменты**
+* Предобработка: `isna`, `dropna`, `astype`, `duplicated`, `str.lower()`, `rename`, `drop`, `pd.get_dummies`.
+* EDA: `groupby`, `matplotlib`: **pie chart** ++ shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. Статистический анализ: **корреляции** `chi2_contingency` + `pandas.crosstab`; pointbiserialr
 **Цель**
 * Спрогнозировать отток клиентов банка.
 
