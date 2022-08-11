@@ -1,6 +1,15 @@
 # Отток клиентов
-![](churn.jpg?raw=true "Title")
+**Подходы и инструменты**
+* **Предобработка**: `isna`, `dropna`, `astype`, `duplicated`, `str.lower()`, `rename`, `drop`, `pd.get_dummies`.
 
+* **EDA**: `groupby`, `value_counts(normalize=True)`, Графики: `matplotlib`: pie chart + shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. 
+* *Статистический анализ*: корреляции бинарного отклика и качественных переменных: `chi2_contingency` + `pandas.crosstab`, корреляции бинарного отлкика и количественных переменных : `pointbiserialr`, `corr`.
+
+* **Построение классификационных моделей**: `train_test_split`, `StandardScaler`, `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `classification_report`, `f1_score`, `roc_auc_score`, `roc_curve`. 
+
+* *Баланс классов*: `upsample`, `class_weight='balanced'`, `SMOTE` из библиотеки `imblearn`. 
+* *Поиск лучших гиперапарметров*: `GridSearchCV`.
+ 
 **Цель**
 * Спрогнозировать отток клиентов банка.
 
@@ -14,7 +23,6 @@
 * В этом проекте я дополнительно освоил методы корреляций как между количественными переменными, так и между качественным откликом и качественными/количественными признаками.
 * Использовал разные техники с дисбалансом классов, включая `SMOTE`.
 * Использовал разные техники для иллюстрации анализа данных и результатов алгоритмов машинного обучения.
-* Освоил метод `GridSearchCV`.
 
 
 
@@ -66,13 +74,3 @@
             5. Вывод   
 4. Тестирование модели
 5. Вывод
-
-
-# Используемые библиотеки
-* pandas
-* numpy
-* scipy
-* imblearn
-* matplotlib
-* seaborn
-* sklearn
