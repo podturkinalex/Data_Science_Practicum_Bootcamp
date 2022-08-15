@@ -3,7 +3,7 @@
 * **Предобработка**: `isna`, `dropna`, `astype`, `duplicated`, `str.lower()`, `rename`, `drop`, `pd.get_dummies`.
 
 * **EDA**: `groupby`, `value_counts(normalize=True)`, Графики: `matplotlib`: pie chart + shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. 
-* *Статистический анализ*: корреляции бинарного отклика и качественных переменных: `chi2_contingency` + `pandas.crosstab`, корреляции бинарного отлкика и количественных переменных : `pointbiserialr`, `corr`.
+* *Статистический анализ*: корреляции бинарного отклика и качественных переменных: `chi2_contingency` + `pandas.crosstab`, корреляции бинарного отклика и количественных переменных : `pointbiserialr`, `corr`.
 
 * **Построение классификационных моделей**: `train_test_split`, `StandardScaler`, `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `classification_report`, `f1_score`, `roc_auc_score`, `roc_curve`. 
 
