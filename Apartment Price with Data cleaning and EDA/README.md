@@ -4,7 +4,7 @@
 
 **Предобработка данных**: `python`, `pandas`, `numpy`. Обработка данных, дубликаты, пропуски, названия столбцов, категоризация, декомпозиция.
 
-**EDA**: `matplolib`, `seaborn`. Histogram, boxplot, scatterplot, lineplot, heatmap, категоризация, фрод-мониторинг.
+**EDA**: `matplolib`, `seaborn`: `histogram`, `boxplot`, `scatterplot`, `lineplot`, `heatmap`, `категоризация`,`фрод-мониторинг`.
 
 
 ### Цель
