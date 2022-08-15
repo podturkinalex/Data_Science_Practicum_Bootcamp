@@ -7,7 +7,7 @@
 
 * **Построение классификационных моделей**: `train_test_split`, `StandardScaler`, `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `classification_report`, `f1_score`, `roc_auc_score`, `roc_curve`. 
 
-* *Баланс классов*: `upsample`, `class_weight='balanced'`, `SMOTE` из библиотеки `imblearn`. 
+* *Баланс классов*: `upsample`, `shuffle`, `class_weight='balanced'`, `SMOTE` из библиотеки `imblearn`. 
 * *Поиск лучших гиперапарметров*: `GridSearchCV`.
  
 **Цель**
