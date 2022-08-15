@@ -6,7 +6,7 @@
 
 **EDA и статистический анализ**: `pandas`, `scipy`, `matplolib`, `seaborn`: `pivot_table`, `histogram`, `barplot`, `pie chart`, `boxplot`, `subplots`, `scatter_matrix`, `corr`, `stats`.
 
-### Цель**
+### Цель
 * Определить факторы, влияющие на успешность компьютерных игр.
 
 **Задачи**
