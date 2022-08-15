@@ -1,7 +1,7 @@
 # Выбор локации для скважины
 ## Подходы и инструменты
 
-* **Разработка бизнес-модели**: `python`, `pandas`, `bootstrap`, `seaborn`, `histogram`, `swarmplot`, `LinearRegression`.  
+* **Разработка бизнес-модели**: `python`, `pandas`, `bootstrap`, `seaborn`, `histogram`, `boxplot`, `swarmplot`, `LinearRegression`.  
 
 **Цель**
 * Выбрать наиболее перспективное местонахождение для добычи нефти нефтедобывающей компании.
