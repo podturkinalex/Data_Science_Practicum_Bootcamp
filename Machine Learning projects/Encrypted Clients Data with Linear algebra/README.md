@@ -1,8 +1,13 @@
 # Защита персональных данных клиентов
-![](encrypted.png?raw=true "Title")
 
 
-**Цель**
+## Подходы и инструменты
+
+* **Разработка модели анонимизации персональных данных**: `pandas`, `numpy`, `sklearn`, `matplotlib`: `дубликаты`, `histogram`, `heatmap`, `one hot encoding`, `StandardScaler`, `linear algebra`, `class`.
+
+
+
+## Цель
 * Защитить данные клиентов страховой компании.
 
 **Задача**
@@ -32,10 +37,3 @@
 6. Выводы
 
 
-
-# Используемые библиотеки
-* pandas
-* numpy
-* matplotlib 
-* seaborn
-* sklearn
