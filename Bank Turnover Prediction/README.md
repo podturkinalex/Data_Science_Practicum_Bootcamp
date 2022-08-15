@@ -1,16 +1,15 @@
 # Отток клиентов
-**Подходы и инструменты**
-* **Предобработка**: `isna`, `dropna`, `astype`, `duplicated`, `str.lower()`, `rename`, `drop`, `pd.get_dummies`.
 
-* **EDA**: `groupby`, `value_counts(normalize=True)`, Графики: `matplotlib`: pie chart + shadow, colors, explode and autopct; `seaborn`: `pairplot`, `heatmap` + cmap, center. 
-* *Статистический анализ*: корреляции бинарного отклика и качественных переменных: `chi2_contingency` + `pandas.crosstab`, корреляции бинарного отклика и количественных переменных : `pointbiserialr`, `corr`.
+## Подходы и инструменты
 
-* **Построение классификационных моделей**: `train_test_split`, `StandardScaler`, `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `classification_report`, `f1_score`, `roc_auc_score`, `roc_curve`. 
+* **Предобработка**: `pandas`
 
-* *Баланс классов*: `upsample`, `shuffle`, `class_weight='balanced'`, `SMOTE` из библиотеки `imblearn`. 
-* *Поиск лучших гиперапарметров*: `GridSearchCV`.
+* **EDA**: `scipy`, `matplotlib`, `seaborn`: `chi2_contingency`, `pointbiserialr`, `corr`, `pieplot`, `pairplot`, `heatmap`.
+
+* **Построение классификационных моделей, подбор гиперапараметров, выбор модели, борьба с дисблансом классов**: `train_test_split`, ` One-Hot Encoding`, `StandardScaler`, `upsample`, `class_weight`, `SMOTE`, `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `GridSearchCV`, `classification_report`, `f1_score`, `roc_auc_score`, `roc_curve`. 
+
  
-**Цель**
+## Цель
 * Спрогнозировать отток клиентов банка.
 
 **Задача**
