@@ -3,7 +3,7 @@
 
 ## Подходы и инструменты
 
-* **Предобработка и EDA временных рядов**: `python`, `pandas`, `numpy`, `matplotlib`, `searborn`, `statsmodels`: `экстракция данных временных рядов`, `ресэмплирование`, `проверка стационарности ряда `Dickey–Fuller``, `seasonal_decompose`, `создание новых признаков`, `boxplot`, `lineplot`, `heatmap`, `kdeplot`.
+* **Предобработка и EDA временных рядов**: `python`, `pandas`, `numpy`, `matplotlib`, `searborn`, `statsmodels`: `экстракция данных временных рядов`, `ресэмплирование`, `проверка стационарности ряда Dickey–Fuller`, `seasonal_decompose`, `создание новых признаков`, `boxplot`, `lineplot`, `heatmap`, `kdeplot`.
 
 * **Построение регрессионных моделей**: `TimeSeriesSplit`,  `LinearRegression`, `RandomForestRegressor`, `CatBoostRegressor`, `feature_importances_`; подбор гиперпараметров - `RandomizedSearchCV`. 
 
