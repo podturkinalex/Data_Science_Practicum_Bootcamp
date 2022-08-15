@@ -3,7 +3,7 @@
 
 ## Подходы и инструменты
 
-* **Обработка естественного языка и EDA**: `Python`, `pandas`, `numpy`, `BERT`, `nltk`, `wordcloud`, `matplotlib`, `searborn`, `torch`: Пропуски, дубликаты, фильтрация, экстрагирование новых признаков, `boxplot`, `heatmap`, `plot`.
+* **Обработка естественного языка и EDA**: `Python`, `pandas`, `numpy`, `nltk`, `wordcloud`, `matplotlib`, `searborn`, `BERT`, `torch`.
 
 * **Построение классификационных моделей с учётом дисбаланса классов**: `sklearn`, `catboost`,  подбор гиперпараметров `RandomizedSearchCV`, `roc_curve`.
 
