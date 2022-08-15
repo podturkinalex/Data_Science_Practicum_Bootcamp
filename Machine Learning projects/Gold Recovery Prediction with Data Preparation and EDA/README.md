@@ -1,10 +1,16 @@
 # Восстановление золота из руды
-![](Zyfra_Logo_Eng.png?raw=true "Title")
+
+
+## Подходы и инструменты
+
+* **Предобработка и EDA**: `pandas`, `numpy`, `matplotlib`, `searborn`: `пропуски`, `дубликаты`, `фильтрация`, `поиск аномалий`, `boxplot`, `kdeplot`, `histogram`.
+
+* **Построение регрессионных моделей**:  `sklearn`: `LinearRegression`, `Lasso` `RandomForestRegressor`, `Decision Tree`, `RandomForestRegressor`; подбор гиперпараметров - `RandomizedSearchCV`, `Grid_SearchCV`, кастомная метрика: `make_scorer`, выбор модели.
 
 * Данные предоставлены https://www.zyfra.com/
 *  `Zyfra` предоставляет решения для эффективной работы промышленных предприятий.
 
-**Цель**
+## Цель
 * Предсказать коэффициент восстановления золота из золотосодержащей руды.
 
 **Задачи**
@@ -38,10 +44,3 @@
             4. Random Forest
       3. Тестирование модели
 4. Выводы
-
-# Используемые библиотеки
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* sklearn
