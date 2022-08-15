@@ -3,7 +3,7 @@
 
 ## Подходы и инструменты
 
-* **Предобработка и EDA**: `pandas`, `numpy`, `matplotlib`, `searborn`: Пропуски, дубликаты, категоризация, фильтрация, экстрагирование новых признаков, `boxplot`, `heatmap`, `plot`.
+* **Предобработка и EDA**: `pandas`, `numpy`, `matplotlib`, `searborn`: Пропуски, дубликаты, фильтрация, экстрагирование новых признаков, `boxplot`, `heatmap`, `plot`.
 
 * **Построение регрессионных моделей**: `Pipeline`, `LinearRegression`, `RandomForestRegressor`, `LightGBM`, `CatBoostRegressor`, подбор гиперпараметров - `Optuna`, `RandomizedSearchCV`, `Grid_SearchCV`, `regplot`.
 
@@ -61,16 +61,3 @@
 *Target*
 
 * Price — цена (евро)
-
-
-# Используемые библиотеки
-* os
-* pandas
-* numpy
-* matplotlib 
-* optuna
-* seaborn
-* sklearn
-* lightgbm
-* catboost
-* warnings 
