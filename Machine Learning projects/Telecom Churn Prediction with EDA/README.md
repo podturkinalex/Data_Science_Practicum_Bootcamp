@@ -3,7 +3,7 @@
 
 ## Подходы и инструменты
 * **EDA**: `stats`, `chi2_contingency`, `kstest`, `mannwhitneyu`, `matplotlib`, `seaborn`, `barplot`, `histogram`, `histplot`, `donut pie`, `boxplot`, `heatmap`.
-* **Построение классификационных моделей, подбор гиперапараметров в цикле, выбор модели**: `sklearn`, `matplotlib`, `seaborn`: `Pipeline`, `LogisticRegression`,  `CatBoostClasifier`
+* **Построение классификационных моделей, подбор гиперапараметров в цикле, выбор модели**: `sklearn`: `Pipeline`, `LogisticRegression`,  `CatBoostClasifier`
 * **Поиск лучших гиперпараметров**: `cross_val_score`, `RandomizedSearchCV`.
 * **Тестирование лучшей модели**: `confusion_matrix`, `ConfusionMatrixDisplay`, `roc_auc_score`, `roc_curve`.
 
