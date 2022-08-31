@@ -47,6 +47,7 @@
 ## Навыки
 * Data Preprocessing
 * Data Visualization
+* Data Analysis
 * Numeric method
 * Machine learning in business
 * Supervised ML
