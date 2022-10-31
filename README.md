@@ -1,7 +1,7 @@
 # Data_Science_Practicum_Bootcamp
 
-* Это репозиторий моих учебных проектов из разных бизнес-индустрий, которые я делал во время обучения на курсе `Data Science` на Яндекс Практикуме https://practicum.yandex.ru/.
-* Здесь вы можете встретить проекты по предобработке и анализу данных и решений самых разных задач машинного обучения.
+* This is a repository of my projects from various business industries that I did while studying in the `Data Science` course at the Yandex Practicum Bootcamp https://practicum.yandex.ru/.
+* Here you can find projects on data preprocessing / analytics and solutions to various machine-learning problems.
 
 ## Содержание
 * [Apartment Price with Data cleaning and EDA](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Data%20Analytic%20projects/Apartment%20Price%20with%20Data%20cleaning%20and%20EDA)
@@ -21,11 +21,11 @@
 * [Well Drilling Profit Prediction with Bootstrapping](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Machine%20Learning%20projects/Well%20Drilling%20Profit%20Prediction%20with%20Bootstrapping)
 
 
-## Основные языки
+## Language
 * Python
 * SQL
 
-## Основные библиотеки
+## Libraries
 * pandas
 * numpy
 * scipy
@@ -44,7 +44,7 @@
 
 
 
-## Навыки
+## Skills
 * Data Preprocessing
 * Data Visualization
 * Data Analysis
