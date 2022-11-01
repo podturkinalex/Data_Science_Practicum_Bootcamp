@@ -1,7 +1,6 @@
 # Data_Science_Practicum_Bootcamp
 
-* This is a repository of my projects from various business industries that I did while studying in the `Data Science` course at the Yandex Practicum Bootcamp https://practicum.yandex.ru/.
-* Here you can find projects on data preprocessing / analytics and solutions to various machine-learning problems.
+* This is a repository of my projects from various business industries that I did while studying in the `Data Science` course at the `Practicum Bootcamp` https://practicum.com/data-science/
 
 ## Содержание
 * [Apartment Price with Data cleaning and EDA](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Data%20Analytic%20projects/Apartment%20Price%20with%20Data%20cleaning%20and%20EDA)
