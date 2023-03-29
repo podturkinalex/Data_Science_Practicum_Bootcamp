@@ -2,7 +2,7 @@
 
 * This is a repository of my projects from various business industries that I did while studying in the `Data Science` course at the `Practicum Bootcamp` https://practicum.com/data-science/
 
-## Содержание
+## Projects
 * [Apartment Price with Data cleaning and EDA](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Data%20Analytic%20projects/Apartment%20Price%20with%20Data%20cleaning%20and%20EDA)
 * [Bank Turnover Prediction](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Machine%20Learning%20projects/Bank%20Turnover%20Prediction)
 * [Borrowers' Reliability with Data Cleaning and EDA](https://github.com/podturkinalex/Data_Science_Practicum_Bootcamp/tree/main/Data%20Analytic%20projects/Borrowers'%20Reliability%20with%20Data%20Cleaning%20and%20EDA)
